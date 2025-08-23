@@ -1,0 +1,43 @@
+body {
+  background-color: lavender;
+  padding: 30px;
+}
+
+h1 {
+    margin: 0 auto;
+    display: block;
+    width: max-content;
+}
+p {
+    color: brown;
+}
+
+.red {
+  color: rgb(192, 0, 0);
+  font-size: 25px;
+}
+
+.blue {
+  color: blue;
+  font-size: 15px;
+}
+
+.yellow {
+  color: yellow;
+  font-size: 35px;
+} 
+.picture {
+  width: 300px;
+  display: block;
+  border-radius: 20px;
+  border: 2px solid blue;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#title {
+  font-size: 20px;
+  font-weight: 800;
+  color: black;
+  text-transform: capitalize;
+}
